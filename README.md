@@ -19,4 +19,8 @@ The Cloud Native Bookshop system contains the following services:
 1. Spring Boot
 2. Spring Cloud Config Server
 3. Spring Cloud Config Client
+4. PostgreSQL
+5. GitHub Actions
+6. Docker
+7. Kubernetes
 
