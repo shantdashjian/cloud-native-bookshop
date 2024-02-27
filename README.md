@@ -1,4 +1,4 @@
-# cloud-native-bookshop
+# Cloud Native Bookshop
 An umbrella repository for all the services of cloudnativebookshop.com
 
 ## In This Document:
