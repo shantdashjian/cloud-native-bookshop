@@ -7,7 +7,7 @@ An umbrella repository for all the services of cloudnativebookshop.com
 3. [Technologies Used](#technologies-used)
 
 ## Repositories
-The Cloud Native Bookshop system contains the following services:
+The Cloud Native Bookshop system services are in the following repositories:
 1. [catalog-service](https://github.com/shantdashjian/catalog-service)
 2. [config-repo](https://github.com/shantdashjian/config-repo)
 3. [config-service](https://github.com/shantdashjian/config-service)
