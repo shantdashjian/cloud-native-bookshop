@@ -5,6 +5,7 @@ An umbrella repository for all the services of cloudnativebookshop.com
 1. [Repositories](#repositories)
 2. [System Design](#system-design)
 3. [Technologies Used](#technologies-used)
+4. [Deployment Pipeline](#deployment-pipeline)
 
 ## Repositories
 The Cloud Native Bookshop system services are in the following repositories:
@@ -23,4 +24,6 @@ The Cloud Native Bookshop system services are in the following repositories:
 5. GitHub Actions
 6. Docker
 7. Kubernetes
+
+## Deployment Pipeline   
 
