@@ -12,6 +12,7 @@ The Cloud Native Bookshop system services are in the following repositories:
 1. [catalog-service](https://github.com/shantdashjian/catalog-service)
 2. [config-repo](https://github.com/shantdashjian/config-repo)
 3. [config-service](https://github.com/shantdashjian/config-service)
+4. [cloud-native-deployment](https://github.com/shantdashjian/cloud-native-deployment/tree/main)
 
 ## System Design
 ![System Design](images/system-design.png)
