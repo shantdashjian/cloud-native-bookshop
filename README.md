@@ -27,4 +27,5 @@ The Cloud Native Bookshop system services are in the following repositories:
 7. Kubernetes
 
 ## Deployment Pipeline   
+![Deployment Pipeline](images/deployment-pipeline.png)
 
