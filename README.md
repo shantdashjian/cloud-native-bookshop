@@ -9,11 +9,12 @@ An umbrella repository for all the services of cloudnativebookshop.com
 
 ## Repositories
 The Cloud Native Bookshop system services are in the following repositories:
-1. [catalog-service](https://github.com/shantdashjian/catalog-service)
-2. [order-service](https://github.com/shantdashjian/order-service)
-3. [config-repo](https://github.com/shantdashjian/config-repo)
-4. [config-service](https://github.com/shantdashjian/config-service)
-5. [cloud-native-deployment](https://github.com/shantdashjian/cloud-native-deployment/tree/main)
+1. [edge-service](https://github.com/shantdashjian/edge-service)
+2. [catalog-service](https://github.com/shantdashjian/catalog-service)
+3. [order-service](https://github.com/shantdashjian/order-service)
+4. [config-repo](https://github.com/shantdashjian/config-repo)
+5. [config-service](https://github.com/shantdashjian/config-service)
+6. [cloud-native-deployment](https://github.com/shantdashjian/cloud-native-deployment/tree/main)
 
 ## System Design
 ![System Design](images/system-design.png)
@@ -22,10 +23,14 @@ The Cloud Native Bookshop system services are in the following repositories:
 1. Spring Boot
 2. Spring Cloud Config Server
 3. Spring Cloud Config Client
-4. PostgreSQL
-5. GitHub Actions
-6. Docker
-7. Kubernetes
+4. Spring Data JDBC
+5. Reactive Spring
+6. Spring Cloud Gateway
+7. PostgreSQL
+8. Redis
+9. GitHub Actions
+10. Docker
+11. Kubernetes
 
 ## Deployment Pipeline   
 ![Deployment Pipeline](images/deployment-pipeline.png)
